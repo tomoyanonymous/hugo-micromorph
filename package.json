@@ -1,0 +1,22 @@
+{
+  "name": "hugo-micromorph",
+  "version": "1.0.0",
+  "description": "tiny hugo module to use micromoph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomoyanonymous/hugo-micromorph.git"
+  },
+  "author": "Tomoya Matsuura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomoyanonymous/hugo-micromorph/issues"
+  },
+  "homepage": "https://github.com/tomoyanonymous/hugo-micromorph#readme",
+  "dependencies": {
+    "micromorph": "^0.4.5"
+  }
+}

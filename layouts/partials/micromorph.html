@@ -1,0 +1,2 @@
+{{ $built := resources.Get "js/micromorph.js" | js.Build "micromorph.js" }}
+<script src="{{ $built.RelPermalink }}" defer></script>
